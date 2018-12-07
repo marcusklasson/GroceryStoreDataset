@@ -1,4 +1,4 @@
-Title: Gurka Sverige Klass 1 
-Country: Sverige 
-Description: Färsk gurka. Passar bra i salladen eller på smörgåsen.
+Title: Cucumber Class 1 
+Country: Sweden 
+Description: Fresh cucumber. Fits well in the salad or on the sandwich.
 URL: https://www.hemkop.se/produkt/Gurka-Sverige-Klass-1-100594965_ST
