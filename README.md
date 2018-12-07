@@ -15,6 +15,6 @@ This repository contains the dataset of natural images of grocery items. The dat
 
 This readme is still under construction.
 
-To do:
+### To do:
 
-Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
+* Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
