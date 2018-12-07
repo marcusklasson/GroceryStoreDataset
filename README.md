@@ -4,6 +4,8 @@ This repository contains the dataset of natural images of grocery items. The dat
 
 <span style="color:orange;"> This readme is still under construction! </span>
 
+<font color="red">This is some text!</font>
+
 ### Samples of natural images
 
 <p align="center">
