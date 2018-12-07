@@ -7,6 +7,8 @@ This repository contains the dataset of natural images of grocery items. The dat
 <p align="center">
   <img src="Alpro-Soy-Milk-Fresh_001.jpg" width="150" title="hover text">
   <img src="Alpro-Soy-Milk-Fresh_001.jpg" width="150" title="hover text">
+  <img src="/dataset/train/Alpro-Soy-Milk-Fresh/Alpro-Soy-Milk-Fresh_023.jpg" width="150" title="hover text">
+  
 </p>
 
 ### Samples of iconic images
