@@ -2,9 +2,8 @@
 
 This repository contains the dataset of natural images of grocery items. The dataset was collected in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels".
 
-<span style="color:orange;"> This readme is still under construction! </span>
+### This readme is still under construction! 
 
-<font color="red">This is some text!</font>
 
 ### Samples of natural images
 
