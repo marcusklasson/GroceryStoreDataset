@@ -8,6 +8,12 @@ Sample of natural images:
 
 ![alpro-soy-milk-fresh_001](https://user-images.githubusercontent.com/22121575/49652271-dc3b1080-fa31-11e8-9eba-637cbfa32465.jpg)![alpro-soy-milk-fresh_001](https://user-images.githubusercontent.com/22121575/49652271-dc3b1080-fa31-11e8-9eba-637cbfa32465.jpg)![alpro-soy-milk-fresh_001](https://user-images.githubusercontent.com/22121575/49652271-dc3b1080-fa31-11e8-9eba-637cbfa32465.jpg)
 
+
+<p align="center">
+  <img src="Alpro-Soy-Milk-Fresh_001.jpg" width="350" title="hover text">
+</p>
+
+
 This readme is still under construction.
 
 To do:
