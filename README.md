@@ -4,7 +4,7 @@ This repository contains the dataset of natural images of grocery items. The dat
 
 Sample of natural images:
 
-![image][dataset/train/Alpro-Soy-Milk-Fresh/Alpro-Soy-Milk-Fresh_001.jpg]
+![image][/dataset/train/Alpro-Soy-Milk-Fresh/Alpro-Soy-Milk-Fresh_001.jpg]
 
 
 This readme is still under construction.
