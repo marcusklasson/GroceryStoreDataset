@@ -8,10 +8,16 @@ This repository contains the dataset of natural images of grocery items. The dat
 ### Samples of natural images
 
 <p align="center">
-  <img src="Alpro-Soy-Milk-Fresh_001.jpg" width="150" title="hover text">
-  <img src="Alpro-Soy-Milk-Fresh_001.jpg" width="150" title="hover text">
-  <img src="/dataset/train/Alpro-Soy-Milk-Fresh/Alpro-Soy-Milk-Fresh_023.jpg" width="150" title="hover text">
-  
+  <img src="/sample_images/natural/Alpro-Soy-Milk-Fresh.jpg" width="150" title="hover text">
+  <img src="/sample_images/natural/Arla-Milk-Standard.jpg" width="150" title="hover text">
+  <img src="/sample_images/natural/Oatly-Natural-Yoghurt.jpg" width="150" title="hover text">
+  <img src="/sample_images/natural/Green-Pepper.jpg" width="150" title="hover text">
+</p>
+<p align="center">
+  <img src="/sample_images/natural/Alpro-Soy-Milk-Fresh.jpg" width="150" title="hover text">
+  <img src="/sample_images/natural/Arla-Milk-Standard.jpg" width="150" title="hover text">
+  <img src="/sample_images/natural/Oatly-Natural-Yoghurt.jpg" width="150" title="hover text">
+  <img src="/sample_images/natural/Green-Pepper.jpg" width="150" title="hover text">
 </p>
 
 ### Samples of iconic images
