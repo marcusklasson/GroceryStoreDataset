@@ -24,16 +24,16 @@ This repository contains the dataset of natural images of grocery items. The dat
 
 
 <p align="center">
-  <img src="/sample_images/iconic/Granny-Smith-Apple_Clean.jpg" width="130" title="hover text">
-  <img src="/sample_images/iconic/Pink-Lady-Apple_Clean.jpg" width="130" title="hover text">
-  <img src="/sample_images/iconic/Lemon_Clean.jpg" width="130" title="hover text">
-  <img src="/sample_images/iconic/Banana_Clean.jpg" width="130" title="hover text">
+  <img src="/sample_images/iconic/Granny-Smith-Apple_Clean.jpg" width="150" title="hover text">
+  <img src="/sample_images/iconic/Pink-Lady-Apple_Clean.jpg" width="150" title="hover text">
+  <img src="/sample_images/iconic/Lemon_Clean.jpg" width="150" title="hover text">
+  <img src="/sample_images/iconic/Banana_Clean.jpg" width="150" title="hover text">
 </p>
 <p align="center">
-  <img src="/sample_images/iconic/Green-Pepper_Clean.jpg" width="130" title="hover text">
-  <img src="/sample_images/iconic/Arla-Milk-Standard_Clean.jpg" width="130" title="hover text">
-  <img src="/sample_images/iconic/Oatly-Natural-Yoghurt_Clean.jpg" width="130" title="hover text">
-  <img src="/sample_images/iconic/Alpro-Soy-Milk-Fresh_Clean.jpg" width="130" title="hover text">
+  <img src="/sample_images/iconic/Green-Pepper_Clean.jpg" width="150" title="hover text">
+  <img src="/sample_images/iconic/Arla-Milk-Standard_Clean.jpg" width="150" title="hover text">
+  <img src="/sample_images/iconic/Oatly-Natural-Yoghurt_Clean.jpg" width="150" title="hover text">
+  <img src="/sample_images/iconic/Alpro-Soy-Milk-Fresh_Clean.jpg" width="150" title="hover text">
 </p>
 
 ### To do:
