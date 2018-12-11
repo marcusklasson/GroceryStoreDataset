@@ -39,3 +39,6 @@ This repository contains the dataset of natural images of grocery items. The dat
 ### To do:
 
 * Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
+* Explain how to use txt files for loading data.
+* Add link to paper.
+* Avocado is a fruit, not a vegetable...
