@@ -1,6 +1,6 @@
 # Grocery Store Dataset
 
-This repository contains the dataset of natural images of grocery items. The dataset was presented in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels", which will appear at WACV 2019.
+This repository contains the dataset of natural images of grocery items. All natural images was taken with a smartphone camera in different grocery stores. The dataset was presented in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels", which will appear at WACV 2019.
 
 The files **train.txt** and **test.txt** in the folder **dataset** includes the paths to the images in the training and test set respectively. Each row in these two files consists of the path to an image and its fine-grained label followed by its coarse-grained label, where both labels are represented as integers. 
 
