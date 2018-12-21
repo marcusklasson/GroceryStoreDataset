@@ -40,6 +40,11 @@ This repository contains the dataset of natural images of grocery items. The dat
   <img src="/sample_images/iconic/Alpro-Fresh-Soy-Milk_Iconic.jpg" width="150" title="hover text">
 </p>
 
+### Samples of product descriptions
+
+**Granny Smith:** Granny Smith is a green apple with white, firm pulp and a clear acidity in the flavor.
+
+
 ### To do:
 
 * Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
