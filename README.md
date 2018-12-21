@@ -1,9 +1,12 @@
 # Grocery Store Dataset
 
-This repository contains the dataset of natural images of grocery items. The dataset was collected in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels".
+This repository contains the dataset of natural images of grocery items. The dataset was presented in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels", which will appear at WACV 2019.
 
-### This readme is still under construction! 
+The files **train.txt** and **test.txt** in the folder **dataset** includes the paths to the images in the training and test set respectively. Each row in these two files consists of the path to an image and its fine-grained label followed by its coarse-grained label, where both labels are represented as integers. 
 
+The 81 fine-grained classes and their coarse-grained classes can be found in **classes.csv** in the folder **dataset**. The classes corresponding label (an integer) is also included in addition to the paths to their iconic image and the product description. 
+
+Feel free to download the dataset and apply it to your model. When time allows, I will upload code that is related to the paper above, such that the results in the paper can be reproduced.  
 
 ### Samples of natural images
 
@@ -47,6 +50,7 @@ This repository contains the dataset of natural images of grocery items. The dat
 
 ### To do:
 
-* Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
-* Explain how to use txt files for loading data.
 * Add link to paper.
+* Upload code related to the paper.
+* Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
+
