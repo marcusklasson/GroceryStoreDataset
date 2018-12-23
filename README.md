@@ -1,6 +1,8 @@
 # Grocery Store Dataset
 
-This repository contains the dataset of natural images of grocery items. All natural images was taken with a smartphone camera in different grocery stores. The dataset was presented in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels", which will appear at WACV 2019.
+This repository contains the dataset of natural images of grocery items. All natural images was taken with a smartphone camera in different grocery stores. We ended up with 5125 natural images from 81 different classes of fruits, vegetables, and carton items (e.g. juice, milk, yoghurt). The 81 classes are divided into 42 coarse-grained classes, where e.g. the fine-grained classes 'Royal Gala' and 'Granny Smith' belong to the same coarse-grained class 'Apple'. For each fine-grained class, we have downloaded an iconic image and a product description of the item, where some samples of these can be seen on this page below. The dataset was presented in the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels", which will appear at WACV 2019. 
+
+### How to use the dataset
 
 The files **train.txt** and **test.txt** in the folder **dataset** includes the paths to the images in the training and test set respectively. Each row in these two files consists of the path to an image and its fine-grained label followed by its coarse-grained label, where both labels are represented as integers. 
 
