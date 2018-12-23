@@ -49,6 +49,10 @@ Feel free to download the dataset and apply it to your model. When time allows, 
 
 **Granny Smith:** Granny Smith is a green apple with white, firm pulp and a clear acidity in the flavor.
 
+**Red Bell Pepper:** The red peppers are much sweeter than the green ones. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example. with filling. Paprika also fits well in pots, gratins and pies.
+
+**Bravo Apple Juice:** Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.
+
 
 ### To do:
 
