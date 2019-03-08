@@ -58,9 +58,9 @@ Feel free to download the dataset and apply it to your model. When time allows, 
 If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/1901.00711):
 
 ```
-@inproceedings{GroceryStoreDataset2019,
+@inproceedings{klasson2019hierarchical,
   title={A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels},
-  author={Marcus Klasson and Cheng Zhang and Hedvig Kjellstr{\"{o}}m},
+  author={Klasson, Marcus and Zhang, Cheng and Kjellstr{\"o}m, Hedvig},
   booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
   year={2019}
 }
