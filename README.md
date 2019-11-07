@@ -4,7 +4,7 @@ This repository contains the dataset of natural images of grocery items. All nat
 
 ## How to use the dataset
 
-The files **train.txt** and **test.txt** in the folder **dataset** includes the paths to the images in the training and test set respectively. Each row in these two files consists of the path to an image and its fine-grained label followed by its coarse-grained label, where both labels are represented as integers. 
+The files **train.txt**, **val.txt** and **test.txt** in the folder **dataset** includes the paths to the images in the training, validation and test set respectively. Each row in these two files consists of the path to an image and its fine-grained label followed by its coarse-grained label, where both labels are represented as integers. 
 
 The 81 fine-grained classes and their coarse-grained classes can be found in **classes.csv** in the folder **dataset**. The classes corresponding label (an integer) is also included in addition to the paths to their iconic image and the product description. 
 
@@ -54,7 +54,7 @@ Feel free to download the dataset and apply it to your model. When time allows, 
 **Bravo Apple Juice:** Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.
 
 ## Updates
-* 2019-11-07: Added validation set with natural images.
+* 2019-11-07: Added validation set with 292 natural images from 59 classes.
 
 ## Citation
 If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/1901.00711):
