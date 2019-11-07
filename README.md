@@ -53,6 +53,8 @@ Feel free to download the dataset and apply it to your model. When time allows, 
 
 **Bravo Apple Juice:** Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.
 
+## Update
+* 2019-11-07: Added validation set with natural images.
 
 ## Citation
 If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/1901.00711):
@@ -69,5 +71,3 @@ If you use this dataset for your research, please cite our [paper](https://arxiv
 ### To do:
 
 * Upload code related to the paper.
-* Translate all txt files for packages with information about ingredients and nutrition values. Currently, all items until Arla Standard milk have been translated.
-
