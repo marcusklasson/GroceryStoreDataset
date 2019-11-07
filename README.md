@@ -53,7 +53,7 @@ Feel free to download the dataset and apply it to your model. When time allows, 
 
 **Bravo Apple Juice:** Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.
 
-## Update
+## Updates
 * 2019-11-07: Added validation set with natural images.
 
 ## Citation
@@ -67,7 +67,3 @@ If you use this dataset for your research, please cite our [paper](https://arxiv
   year={2019}
 }
 ```
-
-### To do:
-
-* Upload code related to the paper.
