@@ -8,7 +8,7 @@ The files **train.txt**, **val.txt** and **test.txt** in the folder **dataset** 
 
 The 81 fine-grained classes and their coarse-grained classes can be found in **classes.csv** in the folder **dataset**. The classes corresponding label (an integer) is also included in addition to the paths to their iconic image and the product description. 
 
-Feel free to download the dataset and apply it to your model. When time allows, I will upload code that is related to the paper above, such that the results in the paper can be reproduced.  
+Feel free to download the dataset and apply it to your model. 
 
 ## Samples of natural images
 
@@ -67,6 +67,12 @@ If you use this dataset for your research, please cite our [paper](https://arxiv
   year={2019}
 }
 ```
+
+## Code
+There exists code in Tensorflow v.1 from our follow-up paper 
+[Using Variational Multi-view Learning for Classification of Grocery Items](https://www.sciencedirect.com/science/article/pii/S2666389920301914): 
+
+* [Code in Tensorflow v.1](https://github.com/marcusklasson/vcca_grocerystore)
 
 ## Acknowledgement
 This research was funded by [Stiftelsen Promobilia](https://www.promobilia.se/) in Stockholm, Sweden.
